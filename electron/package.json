@@ -1,0 +1,18 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "cpu_counter",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified'; false",
+    "start": "electron ."
+  },
+  "keywords": [
+    "cpu"
+  ],
+  "author": "MikhailU",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.3.1"
+  }
+}
